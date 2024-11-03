@@ -1,0 +1,16 @@
+
+untracked:
+new files that git doesn't yet tracked
+
+modified:
+changed
+
+staged:
+File is ready to be commited
+
+unmodified:
+unchanged
+
+Trank->
+
+changed (MODIFIED) | Added new File (UNTRACKED) -> Add (STAGED) -> Commit(UNCHANGED)
