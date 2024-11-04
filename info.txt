@@ -1,3 +1,4 @@
+Status types: 
 
 untracked:
 new files that git doesn't yet tracked
@@ -12,5 +13,9 @@ unmodified:
 unchanged
 
 Trank->
-
 changed (MODIFIED) | Added new File (UNTRACKED) -> Add (STAGED) -> Commit(UNCHANGED)
+
+Add-> add changes in git staging area
+    git add . -> to add all the files from the current working directore to the staging area
+    git add "File name" -> to add the perticular file in the git staging area
+Commit-> commit the changes or the record of changes
