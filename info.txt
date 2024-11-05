@@ -18,4 +18,5 @@ changed (MODIFIED) | Added new File (UNTRACKED) -> Add (STAGED) -> Commit(UNCHAN
 Add-> add changes in git staging area
     git add . -> to add all the files from the current working directore to the staging area
     git add "File name" -> to add the perticular file in the git staging area
+Reset: To unstaged the file
 Commit-> commit the changes or the record of changes
